@@ -1,0 +1,15 @@
+C:\CSharpDev\Solutions\Solutions-02-CoreLanguageFeatures\DateProcessing\DateProcessing\bin\Debug\net6.0\DateProcessing.exe
+C:\CSharpDev\Solutions\Solutions-02-CoreLanguageFeatures\DateProcessing\DateProcessing\bin\Debug\net6.0\DateProcessing.deps.json
+C:\CSharpDev\Solutions\Solutions-02-CoreLanguageFeatures\DateProcessing\DateProcessing\bin\Debug\net6.0\DateProcessing.runtimeconfig.json
+C:\CSharpDev\Solutions\Solutions-02-CoreLanguageFeatures\DateProcessing\DateProcessing\bin\Debug\net6.0\DateProcessing.dll
+C:\CSharpDev\Solutions\Solutions-02-CoreLanguageFeatures\DateProcessing\DateProcessing\bin\Debug\net6.0\DateProcessing.pdb
+C:\CSharpDev\Solutions\Solutions-02-CoreLanguageFeatures\DateProcessing\DateProcessing\obj\Debug\net6.0\DateProcessing.csproj.AssemblyReference.cache
+C:\CSharpDev\Solutions\Solutions-02-CoreLanguageFeatures\DateProcessing\DateProcessing\obj\Debug\net6.0\DateProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpDev\Solutions\Solutions-02-CoreLanguageFeatures\DateProcessing\DateProcessing\obj\Debug\net6.0\DateProcessing.AssemblyInfoInputs.cache
+C:\CSharpDev\Solutions\Solutions-02-CoreLanguageFeatures\DateProcessing\DateProcessing\obj\Debug\net6.0\DateProcessing.AssemblyInfo.cs
+C:\CSharpDev\Solutions\Solutions-02-CoreLanguageFeatures\DateProcessing\DateProcessing\obj\Debug\net6.0\DateProcessing.csproj.CoreCompileInputs.cache
+C:\CSharpDev\Solutions\Solutions-02-CoreLanguageFeatures\DateProcessing\DateProcessing\obj\Debug\net6.0\DateProcessing.dll
+C:\CSharpDev\Solutions\Solutions-02-CoreLanguageFeatures\DateProcessing\DateProcessing\obj\Debug\net6.0\refint\DateProcessing.dll
+C:\CSharpDev\Solutions\Solutions-02-CoreLanguageFeatures\DateProcessing\DateProcessing\obj\Debug\net6.0\DateProcessing.pdb
+C:\CSharpDev\Solutions\Solutions-02-CoreLanguageFeatures\DateProcessing\DateProcessing\obj\Debug\net6.0\DateProcessing.genruntimeconfig.cache
+C:\CSharpDev\Solutions\Solutions-02-CoreLanguageFeatures\DateProcessing\DateProcessing\obj\Debug\net6.0\ref\DateProcessing.dll

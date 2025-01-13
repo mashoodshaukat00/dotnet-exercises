@@ -1,0 +1,43 @@
+C:\CSharpDev\Student\Student-02-CoreLanguageFeatures\DateProcessing\DateProcessing\obj\Debug\net8.0\DateProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpDev\Student\Student-02-CoreLanguageFeatures\DateProcessing\DateProcessing\obj\Debug\net8.0\DateProcessing.AssemblyInfoInputs.cache
+C:\CSharpDev\Student\Student-02-CoreLanguageFeatures\DateProcessing\DateProcessing\obj\Debug\net8.0\DateProcessing.AssemblyInfo.cs
+C:\CSharpDev\Student\Student-02-CoreLanguageFeatures\DateProcessing\DateProcessing\obj\Debug\net8.0\DateProcessing.csproj.CoreCompileInputs.cache
+C:\CSharpDev\Student\Student-02-CoreLanguageFeatures\DateProcessing\DateProcessing\bin\Debug\net8.0\DateProcessing.exe
+C:\CSharpDev\Student\Student-02-CoreLanguageFeatures\DateProcessing\DateProcessing\bin\Debug\net8.0\DateProcessing.deps.json
+C:\CSharpDev\Student\Student-02-CoreLanguageFeatures\DateProcessing\DateProcessing\bin\Debug\net8.0\DateProcessing.runtimeconfig.json
+C:\CSharpDev\Student\Student-02-CoreLanguageFeatures\DateProcessing\DateProcessing\bin\Debug\net8.0\DateProcessing.dll
+C:\CSharpDev\Student\Student-02-CoreLanguageFeatures\DateProcessing\DateProcessing\bin\Debug\net8.0\DateProcessing.pdb
+C:\CSharpDev\Student\Student-02-CoreLanguageFeatures\DateProcessing\DateProcessing\obj\Debug\net8.0\DateProcessing.dll
+C:\CSharpDev\Student\Student-02-CoreLanguageFeatures\DateProcessing\DateProcessing\obj\Debug\net8.0\refint\DateProcessing.dll
+C:\CSharpDev\Student\Student-02-CoreLanguageFeatures\DateProcessing\DateProcessing\obj\Debug\net8.0\DateProcessing.pdb
+C:\CSharpDev\Student\Student-02-CoreLanguageFeatures\DateProcessing\DateProcessing\obj\Debug\net8.0\DateProcessing.genruntimeconfig.cache
+C:\CSharpDev\Student\Student-02-CoreLanguageFeatures\DateProcessing\DateProcessing\obj\Debug\net8.0\ref\DateProcessing.dll
+D:\My Docs\mashoods doc\GlasspaperKurs\dotnet-kurs\Software Development\C# development\CSharpDev\Student\Student-02-CoreLanguageFeatures\DateProcessing\DateProcessing\bin\Debug\net8.0\DateProcessing.exe
+D:\My Docs\mashoods doc\GlasspaperKurs\dotnet-kurs\Software Development\C# development\CSharpDev\Student\Student-02-CoreLanguageFeatures\DateProcessing\DateProcessing\bin\Debug\net8.0\DateProcessing.deps.json
+D:\My Docs\mashoods doc\GlasspaperKurs\dotnet-kurs\Software Development\C# development\CSharpDev\Student\Student-02-CoreLanguageFeatures\DateProcessing\DateProcessing\bin\Debug\net8.0\DateProcessing.runtimeconfig.json
+D:\My Docs\mashoods doc\GlasspaperKurs\dotnet-kurs\Software Development\C# development\CSharpDev\Student\Student-02-CoreLanguageFeatures\DateProcessing\DateProcessing\bin\Debug\net8.0\DateProcessing.dll
+D:\My Docs\mashoods doc\GlasspaperKurs\dotnet-kurs\Software Development\C# development\CSharpDev\Student\Student-02-CoreLanguageFeatures\DateProcessing\DateProcessing\bin\Debug\net8.0\DateProcessing.pdb
+D:\My Docs\mashoods doc\GlasspaperKurs\dotnet-kurs\Software Development\C# development\CSharpDev\Student\Student-02-CoreLanguageFeatures\DateProcessing\DateProcessing\obj\Debug\net8.0\DateProcessing.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Docs\mashoods doc\GlasspaperKurs\dotnet-kurs\Software Development\C# development\CSharpDev\Student\Student-02-CoreLanguageFeatures\DateProcessing\DateProcessing\obj\Debug\net8.0\DateProcessing.AssemblyInfoInputs.cache
+D:\My Docs\mashoods doc\GlasspaperKurs\dotnet-kurs\Software Development\C# development\CSharpDev\Student\Student-02-CoreLanguageFeatures\DateProcessing\DateProcessing\obj\Debug\net8.0\DateProcessing.AssemblyInfo.cs
+D:\My Docs\mashoods doc\GlasspaperKurs\dotnet-kurs\Software Development\C# development\CSharpDev\Student\Student-02-CoreLanguageFeatures\DateProcessing\DateProcessing\obj\Debug\net8.0\DateProcessing.csproj.CoreCompileInputs.cache
+D:\My Docs\mashoods doc\GlasspaperKurs\dotnet-kurs\Software Development\C# development\CSharpDev\Student\Student-02-CoreLanguageFeatures\DateProcessing\DateProcessing\obj\Debug\net8.0\DateProcessing.dll
+D:\My Docs\mashoods doc\GlasspaperKurs\dotnet-kurs\Software Development\C# development\CSharpDev\Student\Student-02-CoreLanguageFeatures\DateProcessing\DateProcessing\obj\Debug\net8.0\refint\DateProcessing.dll
+D:\My Docs\mashoods doc\GlasspaperKurs\dotnet-kurs\Software Development\C# development\CSharpDev\Student\Student-02-CoreLanguageFeatures\DateProcessing\DateProcessing\obj\Debug\net8.0\DateProcessing.pdb
+D:\My Docs\mashoods doc\GlasspaperKurs\dotnet-kurs\Software Development\C# development\CSharpDev\Student\Student-02-CoreLanguageFeatures\DateProcessing\DateProcessing\obj\Debug\net8.0\DateProcessing.genruntimeconfig.cache
+D:\My Docs\mashoods doc\GlasspaperKurs\dotnet-kurs\Software Development\C# development\CSharpDev\Student\Student-02-CoreLanguageFeatures\DateProcessing\DateProcessing\obj\Debug\net8.0\ref\DateProcessing.dll
+D:\Reop\dotnet\exercises\DateProcessing\DateProcessing\bin\Debug\net8.0\DateProcessing.exe
+D:\Reop\dotnet\exercises\DateProcessing\DateProcessing\bin\Debug\net8.0\DateProcessing.deps.json
+D:\Reop\dotnet\exercises\DateProcessing\DateProcessing\bin\Debug\net8.0\DateProcessing.runtimeconfig.json
+D:\Reop\dotnet\exercises\DateProcessing\DateProcessing\bin\Debug\net8.0\DateProcessing.dll
+D:\Reop\dotnet\exercises\DateProcessing\DateProcessing\bin\Debug\net8.0\DateProcessing.pdb
+D:\Reop\dotnet\exercises\DateProcessing\DateProcessing\obj\Debug\net8.0\DateProcessing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Reop\dotnet\exercises\DateProcessing\DateProcessing\obj\Debug\net8.0\DateProcessing.AssemblyInfoInputs.cache
+D:\Reop\dotnet\exercises\DateProcessing\DateProcessing\obj\Debug\net8.0\DateProcessing.AssemblyInfo.cs
+D:\Reop\dotnet\exercises\DateProcessing\DateProcessing\obj\Debug\net8.0\DateProcessing.csproj.CoreCompileInputs.cache
+D:\Reop\dotnet\exercises\DateProcessing\DateProcessing\obj\Debug\net8.0\DateProcessing.sourcelink.json
+D:\Reop\dotnet\exercises\DateProcessing\DateProcessing\obj\Debug\net8.0\DateProcessing.dll
+D:\Reop\dotnet\exercises\DateProcessing\DateProcessing\obj\Debug\net8.0\refint\DateProcessing.dll
+D:\Reop\dotnet\exercises\DateProcessing\DateProcessing\obj\Debug\net8.0\DateProcessing.pdb
+D:\Reop\dotnet\exercises\DateProcessing\DateProcessing\obj\Debug\net8.0\DateProcessing.genruntimeconfig.cache
+D:\Reop\dotnet\exercises\DateProcessing\DateProcessing\obj\Debug\net8.0\ref\DateProcessing.dll
