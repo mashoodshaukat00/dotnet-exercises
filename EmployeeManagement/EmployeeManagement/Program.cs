@@ -35,6 +35,9 @@ namespace EmployeeManagement
             Console.WriteLine(emp1);
             Console.WriteLine(emp2);
 
+            //display user profiles
+
+
         }
     }
 }

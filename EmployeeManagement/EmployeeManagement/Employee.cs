@@ -9,6 +9,8 @@
         private string[] skills;
         private int skillCount;
         private const int MaxSkills = 10;
+       
+        private UserProfile userProfile;
 
         public Employee(string name, decimal salary, DateTime joinDate)
         {
@@ -18,6 +20,9 @@
 
             this.skills = new string[MaxSkills];
             this.skillCount = 0;
+
+            string userName = name.Replace(" ", " ");
+            this.userProfile = new UserProfile(userName, "password", "email@domainName.com");
         }
         public string GetName()
         {
@@ -74,6 +79,16 @@
             {
                 Console.WriteLine($"-{skills[i]}");
             }
+        }
+
+        public bool ChangePassword(string currentPassword, string newPassword)
+        {
+            return userProfile.ChangePassword(currentPassword, newPassword);
+        }
+
+        public void DisplayUserProfile()
+        {
+            Console.WriteLine(userProfile);
         }
 
         public override string ToString()
